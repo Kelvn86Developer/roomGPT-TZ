@@ -11,6 +11,7 @@ module.exports = {
         xs: "330px",
       },
     },
+ 
   },
   plugins: [require("@tailwindcss/forms"), require("@headlessui/tailwindcss")],
 };
