@@ -29,7 +29,7 @@ const options = {
   editor: { images: { crop: false } },
   styles: {
     colors: {
-      primary: "#2563EB", // Primary buttons & links
+      primary: "#8759fc37", // Primary buttons & links
       error: "#d23f4d", // Error messages
       shade100: "#fff", // Standard text
       shade200: "#fffe", // Secondary button text

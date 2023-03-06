@@ -6,7 +6,7 @@
   .background-gradient::before {
     background: radial-gradient(
       20% 50% at 50% 50%,
-      rgba(135, 89, 252, 0.217) 0%,
+      #8759fc37 0%,
       rgba(21, 21, 24, 0) 100%
     );
     z-index: -10;
